@@ -1,0 +1,248 @@
+USER                PID       STAT      VMRSS     COMMAND                                                                                             
+root                1         S         13284     /sbin/initsplash                                                                                    
+root                2         S                                                                                                                       
+root                3         I                                                                                                                       
+root                4         I                                                                                                                       
+root                5         I                                                                                                                       
+root                6         I                                                                                                                       
+root                8         I                                                                                                                       
+root                10        I                                                                                                                       
+root                11        S                                                                                                                       
+root                12        S                                                                                                                       
+root                13        S                                                                                                                       
+root                14        I                                                                                                                       
+root                15        S                                                                                                                       
+root                16        S                                                                                                                       
+root                18        S                                                                                                                       
+root                19        S                                                                                                                       
+root                20        S                                                                                                                       
+root                21        S                                                                                                                       
+root                22        S                                                                                                                       
+root                24        I                                                                                                                       
+root                25        S                                                                                                                       
+root                26        S                                                                                                                       
+root                27        S                                                                                                                       
+root                28        S                                                                                                                       
+root                30        I                                                                                                                       
+root                31        S                                                                                                                       
+root                32        S                                                                                                                       
+root                33        S                                                                                                                       
+root                34        S                                                                                                                       
+root                36        I                                                                                                                       
+root                37        S                                                                                                                       
+root                38        I                                                                                                                       
+root                39        S                                                                                                                       
+root                40        S                                                                                                                       
+root                41        S                                                                                                                       
+root                42        I                                                                                                                       
+root                43        S                                                                                                                       
+root                44        S                                                                                                                       
+root                45        S                                                                                                                       
+root                51        I                                                                                                                       
+root                93        I                                                                                                                       
+root                94        I                                                                                                                       
+root                95        I                                                                                                                       
+root                96        I                                                                                                                       
+root                97        I                                                                                                                       
+root                98        I                                                                                                                       
+root                99        I                                                                                                                       
+root                100       I                                                                                                                       
+root                101       S                                                                                                                       
+root                102       I                                                                                                                       
+root                104       I                                                                                                                       
+root                106       S                                                                                                                       
+root                107       S                                                                                                                       
+root                109       I                                                                                                                       
+root                110       I                                                                                                                       
+root                112       S                                                                                                                       
+root                113       I                                                                                                                       
+root                114       S                                                                                                                       
+root                115       I                                                                                                                       
+root                117       I                                                                                                                       
+root                118       I                                                                                                                       
+root                119       I                                                                                                                       
+root                120       I                                                                                                                       
+root                124       I                                                                                                                       
+root                133       I                                                                                                                       
+root                136       I                                                                                                                       
+root                137       I                                                                                                                       
+root                142       I                                                                                                                       
+root                177       I                                                                                                                       
+root                202       I                                                                                                                       
+root                205       I                                                                                                                       
+root                211       S                                                                                                                       
+root                212       I                                                                                                                       
+root                221       I                                                                                                                       
+root                222       S                                                                                                                       
+root                223       S                                                                                                                       
+root                224       S                                                                                                                       
+root                225       S                                                                                                                       
+root                226       S                                                                                                                       
+root                227       S                                                                                                                       
+root                228       S                                                                                                                       
+root                229       S                                                                                                                       
+root                230       S                                                                                                                       
+root                257       I                                                                                                                       
+root                312       S                                                                                                                       
+root                313       I                                                                                                                       
+root                377       S         32000     /lib/systemd/systemd-journald                                                                       
+root                416       S         7192      /lib/systemd/systemd-udevd                                                                          
+root                418       I                                                                                                                       
+root                419       I                                                                                                                       
+root                570       I                                                                                                                       
+root                600       S                                                                                                                       
+root                601       S                                                                                                                       
+root                602       S                                                                                                                       
+root                603       S                                                                                                                       
+root                604       S                                                                                                                       
+root                605       S                                                                                                                       
+root                606       S                                                                                                                       
+root                607       S                                                                                                                       
+root                608       S                                                                                                                       
+root                609       S                                                                                                                       
+root                610       S                                                                                                                       
+root                611       S                                                                                                                       
+_rpc                653       S         4004      /sbin/rpcbind-f-w                                                                                   
+systemd-resolve     660       S         14048     /lib/systemd/systemd-resolved                                                                       
+systemd-timesync    662       S         6712      /lib/systemd/systemd-timesyncd                                                                      
+root                666       S         172       /usr/sbin/blkmapd                                                                                   
+root                668       S         2864      /usr/sbin/nfsdcld                                                                                   
+root                669       S         2180      /usr/sbin/rpc.idmapd                                                                                
+root                695       S         8224      /usr/libexec/accounts-daemon                                                                        
+root                697       S         1128      /usr/sbin/acpid                                                                                     
+avahi               700       S         3688      avahi-daemon:running[garik-VirtualBox.local]                                                        
+messagebus          704       S         6108      @dbus-daemon--system--address=systemd:--nofork--nopidfile--systemd-activation--syslog-only          
+root                708       S         18964     /usr/sbin/NetworkManager--no-daemon                                                                 
+root                715       S         3984      /usr/sbin/irqbalance--foreground                                                                    
+root                727       S         21480     /usr/bin/python3/usr/bin/networkd-dispatcher--run-startup-triggers                                  
+root                728       S         12208     /usr/libexec/polkitd--no-debug                                                                      
+syslog              730       S         5580      /usr/sbin/rsyslogd-n-iNONE                                                                          
+root                737       S         8064      /lib/systemd/systemd-logind                                                                         
+root                739       S         12944     /usr/libexec/udisks2/udisksd                                                                        
+root                741       S         5648      /sbin/wpa_supplicant-u-s-O/run/wpa_supplicant                                                       
+root                742       S         5288      /usr/sbin/zed-F                                                                                     
+avahi               756       S         344       avahi-daemon:chroothelper                                                                           
+root                823       S         12248     /usr/sbin/ModemManager                                                                              
+root                843       S         8748      sshd:/usr/sbin/sshd-D[listener]0of10-100startups                                                    
+root                918       S         416       /usr/sbin/rpc.mountd                                                                                
+statd               942       S         2292      /sbin/rpc.statd                                                                                     
+root                958       I                                                                                                                       
+root                966       S                                                                                                                       
+root                1005      S                                                                                                                       
+root                1008      S                                                                                                                       
+root                1009      S                                                                                                                       
+root                1010      S                                                                                                                       
+root                1011      S                                                                                                                       
+root                1012      S                                                                                                                       
+root                1013      S                                                                                                                       
+root                1014      S                                                                                                                       
+root                1180      I                                                                                                                       
+root                1182      I                                                                                                                       
+root                1183      I                                                                                                                       
+root                1184      I                                                                                                                       
+root                1186      I                                                                                                                       
+root                1351      S         1168      /usr/bin/VBoxDRMClient                                                                              
+root                1354      S         2864      /usr/sbin/VBoxService--pidfile/var/run/vboxadd-service.sh                                           
+root                1826      S         4876      /usr/lib/postfix/sbin/master-w                                                                      
+postfix             1828      S         7276      qmgr-l-tunix-u                                                                                      
+root                1830      S         2992      /usr/sbin/cron-f-P                                                                                  
+root                1841      S         7612      /usr/sbin/lightdm                                                                                   
+kernoops            1842      S         2528      /usr/sbin/kerneloops--test                                                                          
+kernoops            1850      S         2556      /usr/sbin/kerneloops                                                                                
+root                1852      I                                                                                                                       
+root                1855      S                                                                                                                       
+root                1869      S         214688    /usr/lib/xorg/Xorg-core:0-seatseat0-auth/var/run/lightdm/root/:0-nolistentcpvt7-novtswitch          
+root                1871      S         1124      /sbin/agetty-o-p--\u--nocleartty1linux                                                              
+root                1881      S         9552      lightdm--session-child1215                                                                          
+garik               1886      S         10072     /lib/systemd/systemd--user                                                                          
+garik               1887      S         4280      (sd-pam)                                                                                            
+garik               1894      S         6112      /usr/bin/pipewire                                                                                   
+garik               1895      S         27792     /usr/bin/pulseaudio--daemonize=no--log-target=journal                                               
+garik               1896      S         78844     cinnamon-session--sessioncinnamon                                                                   
+rtkit               1905      S         1544      /usr/libexec/rtkit-daemon                                                                           
+garik               1914      S         5440      /usr/bin/dbus-daemon--session--address=systemd:--nofork--nopidfile--systemd-activation--syslog-only 
+garik               1918      S         344       /usr/bin/VBoxClient--clipboard                                                                      
+garik               1919      S         4176      /usr/bin/VBoxClient--clipboard                                                                      
+garik               1933      S         344       /usr/bin/VBoxClient--seamless                                                                       
+garik               1934      S         2472      /usr/bin/VBoxClient--seamless                                                                       
+garik               1941      S         344       /usr/bin/VBoxClient--draganddrop                                                                    
+garik               1942      S         2500      /usr/bin/VBoxClient--draganddrop                                                                    
+garik               1947      S         344       /usr/bin/VBoxClient--vmsvga-session                                                                 
+garik               1949      S         2604      /usr/bin/VBoxClient--vmsvga-session                                                                 
+garik               2172      S         8212      /usr/libexec/gvfsd                                                                                  
+garik               2177      S         6504      /usr/libexec/gvfsd-fuse/run/user/1000/gvfs-f                                                        
+garik               2179      S         7904      /usr/libexec/at-spi-bus-launcher                                                                    
+garik               2189      S         4572      /usr/bin/dbus-daemon--config-file=/usr/share/defaults/at-spi2/accessibility.conf--nofork--print-addr
+garik               2193      S         8460      /usr/libexec/at-spi2-registryd--use-gnome-session                                                   
+garik               2200      S         7252      /usr/bin/gnome-keyring-daemon--start--components=secrets                                            
+garik               2208      S         24992     csd-screensaver-proxy                                                                               
+garik               2210      S         28248     csd-print-notifications                                                                             
+garik               2211      S         25284     csd-wacom                                                                                           
+garik               2214      S         24568     csd-clipboard                                                                                       
+garik               2221      S         25612     csd-automount                                                                                       
+garik               2226      S         32176     csd-power                                                                                           
+garik               2227      S         24940     csd-a11y-settings                                                                                   
+garik               2228      S         25188     csd-housekeeping                                                                                    
+garik               2229      S         27044     csd-xsettings                                                                                       
+garik               2231      S         27948     csd-media-keys                                                                                      
+garik               2236      S         26388     csd-color                                                                                           
+garik               2238      S         25780     csd-keyboard                                                                                        
+garik               2247      S         35040     csd-background                                                                                      
+garik               2264      S         5984      /usr/libexec/dconf-service                                                                          
+garik               2271      S         15148     /usr/libexec/csd-printer                                                                            
+colord              2272      S         13592     /usr/libexec/colord                                                                                 
+garik               2277      S         9696      /usr/libexec/gvfs-udisks2-volume-monitor                                                            
+garik               2295      S         6700      /usr/libexec/gvfs-goa-volume-monitor                                                                
+root                2298      S         8768      /usr/libexec/upowerd                                                                                
+garik               2303      S         39976     /usr/libexec/goa-daemon                                                                             
+garik               2321      S         14968     /usr/libexec/goa-identity-service                                                                   
+garik               2326      S         6988      /usr/libexec/gvfs-gphoto2-volume-monitor                                                            
+garik               2331      S         6796      /usr/libexec/gvfs-mtp-volume-monitor                                                                
+garik               2335      S         8340      /usr/libexec/gvfs-afc-volume-monitor                                                                
+garik               2345      S         44052     cinnamon-launcher                                                                                   
+garik               2350      S         307808    cinnamon--replace                                                                                   
+garik               2380      S         24932     /usr/libexec/xapps/sn-watcher/xapp-sn-watcher                                                       
+garik               2401      S         64956     /usr/libexec/evolution-data-server/evolution-alarm-notify                                           
+garik               2408      S         6968      /usr/libexec/geoclue-2.0/demos/agent                                                                
+garik               2427      S         35472     /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1                                      
+garik               2429      S         66192     nemo-desktop                                                                                        
+garik               2430      S         53128     /usr/bin/python3/usr/bin/blueman-applet                                                             
+garik               2435      S         42984     nm-applet                                                                                           
+garik               2442      S         40312     cinnamon-killer-daemon                                                                              
+garik               2455      S         26620     /usr/libexec/evolution-source-registry                                                              
+garik               2494      S         31016     /usr/libexec/evolution-calendar-factory                                                             
+garik               2522      S         28888     /usr/libexec/evolution-addressbook-factory                                                          
+garik               2523      S         7076      /usr/lib/bluetooth/obexd                                                                            
+garik               2585      S         8752      /usr/libexec/gvfsd-trash--spawner:1.8/org/gtk/gvfs/exec_spaw/0                                      
+garik               2598      S         6564      /usr/libexec/gvfsd-metadata                                                                         
+garik               2611      S         29700     wcm                                                                                                 
+garik               2615      S         8616      wcm                                                                                                 
+garik               2634      S         100848    mintUpdate                                                                                          
+garik               2680      S         33520     /usr/bin/python3/usr/share/system-config-printer/applet.py                                          
+garik               2686      S         49440     mintreport-tray                                                                                     
+root                22626     S         21196     /usr/libexec/packagekitd                                                                            
+garik               26709     S         984       /bin/sh-cbashps.sha                                                                                 
+garik               26710     S         3804      bashps.sha                                                                                          
+garik               29397     S         29096     wcm                                                                                                 
+garik               29402     S         8756      wcm                                                                                                 
+garik               29593     S         43052     /usr/libexec/gnome-terminal-server                                                                  
+garik               29616     S         5448      bash                                                                                                
+garik               29622     S         6596      sudowcm                                                                                             
+garik               29623     S         1128      sudowcm                                                                                             
+root                29624     S         28672     wcm                                                                                                 
+root                29627     S         6276      wcm                                                                                                 
+root                42646     I                                                                                                                       
+postfix             53194     S         7116      pickup-l-tunix-u-c                                                                                  
+root                57458     S         13840     /usr/sbin/cupsd-l                                                                                   
+root                57459     S         11360     /usr/sbin/cups-browsed                                                                              
+root                57461     I                                                                                                                       
+root                57504     I                                                                                                                       
+root                57510     I                                                                                                                       
+root                57538     I                                                                                                                       
+root                57959     I                                                                                                                       
+root                67768     I                                                                                                                       
+root                72721     I                                                                                                                       
+root                72726     I                                                                                                                       
+garik               77675     S         952       /bin/sh-c./ps1.shax>ss                                                                              
+garik               77676     S         3584      /bin/bash./ps1.shax                                                                                 
+Успешное завершение работы скрипта!!!
